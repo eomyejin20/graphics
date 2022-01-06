@@ -1,0 +1,5 @@
+﻿  TA.cpp
+c:\users\djaxl\onedrive\바탕 화면\20학번 엄예진\2학기 (20학점\컴퓨터그래픽스\openglproject\openglproject\ta.cpp(33): error C2664: 'void glutInit_ATEXIT_HACK(int *,char **)': 인수 2을(를) 'const char **'에서 'char **'(으)로 변환할 수 없습니다.
+  c:\users\djaxl\onedrive\바탕 화면\20학번 엄예진\2학기 (20학점\컴퓨터그래픽스\openglproject\openglproject\ta.cpp(33): note: 변환하면서 한정자가 손실됩니다.
+c:\users\djaxl\onedrive\바탕 화면\20학번 엄예진\2학기 (20학점\컴퓨터그래픽스\openglproject\openglproject\ta.cpp(39): error C2664: 'void glutReshapeFunc(void (__cdecl *)(int,int))': 인수 1을(를) 'void (__cdecl *)(void)'에서 'void (__cdecl *)(int,int)'(으)로 변환할 수 없습니다.
+  c:\users\djaxl\onedrive\바탕 화면\20학번 엄예진\2학기 (20학점\컴퓨터그래픽스\openglproject\openglproject\ta.cpp(39): note: 대상 형식과 일치하는 범위에 이름이 같은 함수가 없습니다.
